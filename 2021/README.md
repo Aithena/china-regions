@@ -1,20 +1,21 @@
 2021最新省市区sql/json 文件
 
 数据来源于[国家统计局](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)
+转载于[告花子/2021最新省市区](https://gitee.com/gaohuazi/china_regions)
 
-更新到国家2020-11-06日 统计的2020年省市区数据
+更新到国家2020-11-06日
+
+统计的2020年省市区数据
 
 有问题请提issue，持续更新中.........
-
-
 
 > 分支说明：
 
 > - `master分支`：3级联动-包括省、市、区
 > - `level5分支`：5级联动-包括省、市、区、街道、社区
 
+### 目录结构描述
 
-###目录结构描述
 <pre>
 ├── json                        // json文件目录
 │   ├── province.json           // 省
